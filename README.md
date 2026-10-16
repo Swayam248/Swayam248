@@ -122,7 +122,3 @@ I explore and share cloud-related knowledge through the AWS community, with a fo
 *Learning continuously. Building practically. Sharing knowledge.*
 
 ---
-
-
-
-*Learning continuously. Building practically. Sharing knowledge.*
