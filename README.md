@@ -6,7 +6,7 @@ I'm a DevOps Engineer at LTM with hands-on experience in cloud infrastructure, C
 
 **Cloud computing excites me because it turns concepts into practical solutions** — from provisioning infrastructure and automating deployments to building reliable and scalable systems.
 
-I believe in learning by building, solving real-world engineering challenges, and continuously improving the reliability and efficiency of software delivery.
+I enjoy learning by building, solving engineering challenges, and continuously improving the reliability and efficiency of software delivery.
 
 ---
 
@@ -25,6 +25,8 @@ I believe in learning by building, solving real-world engineering challenges, an
 | Programming & Operating Systems | Python, Linux, Windows |
 | Progressive Delivery | Argo Rollouts, Canary Deployments |
 
+---
+
 ## 🛠️ Technology Stack
 
 <p align="left">
@@ -41,7 +43,7 @@ I believe in learning by building, solving real-world engineering challenges, an
 
 - Containerized a FastAPI application and implemented automated testing.
 - Automated CI/CD workflows using GitHub Actions.
-- Integrated container image publishing and explored deployment on AWS ECS/Fargate.
+- Integrated container image publishing and worked through deployment on AWS ECS/Fargate.
 - Practiced application health checks and deployment verification.
 
 🔗 [Explore Repository](https://github.com/Swayam248/containerized-fastapi-cicd)
@@ -61,8 +63,8 @@ I believe in learning by building, solving real-world engineering challenges, an
 **Technologies:** Terraform, AWS, Infrastructure as Code
 
 - Provisioned AWS infrastructure using Terraform.
-- Applied infrastructure lifecycle workflows, including initialization, validation, planning, and resource provisioning.
-- Practiced declarative infrastructure management and explored multi-environment infrastructure design.
+- Practiced infrastructure lifecycle workflows, including initialization, validation, planning, and resource provisioning.
+- Explored declarative infrastructure management and multi-environment infrastructure design.
 
 🔗 [Explore Repository](https://github.com/Swayam248/Terraform-AWS-MultiEnv-Infrastructure)
 
@@ -83,27 +85,35 @@ ITER | 2025
 
 ---
 
-## 📈 Continuous Learning
+## ✍️ Knowledge Sharing & Community
 
-- Cloud infrastructure and networking
-- CI/CD engineering and delivery automation
-- Kubernetes orchestration and progressive delivery
-- Infrastructure as Code and system design
-- Artificial intelligence fundamentals and practical applications
-
----
-
-## 🤝 Let's Connect
+I enjoy sharing knowledge, documenting my learning journey, and writing about the technologies and engineering practices I explore. Through technical articles and community platforms, I aim to share practical insights, simplify complex concepts, and learn from the wider developer community.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/swayampatnaik17/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://medium.com/@swayampatnaik17">
+    <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium — Technical Articles" />
   </a>
-  <a href="https://github.com/Swayam248">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://dev.to/swayam_248">
+    <img src="https://img.shields.io/badge/DEV_Community-Technical_Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community — Technical Writing" />
+  </a>
+  <a href="https://builder.aws.com/profile/content?tab=published">
+    <img src="https://img.shields.io/badge/AWS_Builder_Center-Articles_&_Insights-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Builder Center — Articles and Insights" />
   </a>
 </p>
 
 ---
 
-*Building, automating, and learning — one deployment at a time.*
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/swayampatnaik17/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Swayam248">
+    <img src="https://img.shields.io/badge/GitHub-Projects_&_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+*Learning continuously. Building practically. Sharing knowledge.*
