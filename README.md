@@ -2,7 +2,7 @@
 
 ### DevOps Engineer | Cloud Computing | Automation | Infrastructure as Code
 
-I'm a DevOps Engineer at LTM with hands-on experience in cloud infrastructure, CI/CD automation, containerization, and deployment workflows.
+DevOps Engineer at LTM with hands-on experience in cloud infrastructure, CI/CD automation, containerization, and deployment workflows.
 
 **Cloud computing excites me because it turns concepts into practical solutions** — from provisioning infrastructure and automating deployments to building reliable and scalable systems.
 
@@ -85,21 +85,41 @@ ITER | 2025
 
 ---
 
+
+
 ## ✍️ Knowledge Sharing & Community
 
-I enjoy sharing knowledge, documenting my learning journey, and writing about the technologies and engineering practices I explore. Through technical articles and community platforms, I aim to share practical insights, simplify complex concepts, and learn from the wider developer community.
+I love documenting my learning journey, writing technical articles, and sharing practical insights about cloud computing, DevOps, automation, and emerging technologies. Through these platforms, I aim to simplify complex concepts, exchange ideas, and contribute to the developer community.
+
+### 📝 Medium
+I share technical articles and insights on technologies, concepts, and practical lessons I explore throughout my engineering journey.
+
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swayampatnaik17)
+
+### 💻 DEV Community
+I use DEV Community to document technical learnings, explain engineering concepts, and share knowledge with fellow developers.
+
+[![DEV Community](https://img.shields.io/badge/DEV_Community-Explore_My_Writings-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/swayam_248)
+
+### ☁️ AWS Builder Center
+I explore and share cloud-related knowledge through the AWS community, with a focus on AWS technologies and cloud engineering.
+
+[![AWS Builder Center](https://img.shields.io/badge/AWS_Builder_Center-View_My_Profile-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/profile/content?tab=published)
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://medium.com/@swayampatnaik17">
-    <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium — Technical Articles" />
+  <a href="https://www.linkedin.com/in/swayampatnaik17/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://dev.to/swayam_248">
-    <img src="https://img.shields.io/badge/DEV_Community-Technical_Writing-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community — Technical Writing" />
-  </a>
-  <a href="https://builder.aws.com/profile/content?tab=published">
-    <img src="https://img.shields.io/badge/AWS_Builder_Center-Articles_&_Insights-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Builder Center — Articles and Insights" />
+  <a href="https://github.com/Swayam248" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
   </a>
 </p>
+
+*Learning continuously. Building practically. Sharing knowledge.*
 
 ---
 
