@@ -114,7 +114,7 @@ I explore and share cloud-related knowledge through the AWS community, with a fo
   <a href="https://www.linkedin.com/in/swayampatnaik17/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="https://github.com/Swayam248" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/Swayam248?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub projects" />
   </a>
 </p>
