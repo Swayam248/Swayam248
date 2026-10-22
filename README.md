@@ -70,6 +70,18 @@ I enjoy learning by building, solving engineering challenges, and continuously i
 
 ---
 
+## 📚 Cloud & DevOps Notes
+
+Alongside building hands-on projects, I document my learning journey through technical notes covering cloud computing, DevOps tools, automation, networking, and system design.
+
+These notes help me strengthen my fundamentals, understand how technologies work in real-world environments, and revisit concepts while building projects and preparing for technical discussions.
+
+🔗 **[Explore My Cloud & DevOps Notes on Google Drive](https://drive.google.com/drive/folders/1kToJhjQPFdUgj8x5Q_aBXbLVc8aeNCuF)**
+
+*Continuously learning, documenting, and applying technical knowledge through practical work.*
+
+---
+
 ## 🏅 Certification
 
 **AWS Certified Cloud Practitioner**
@@ -85,23 +97,24 @@ ITER | 2025
 
 ---
 
-
-
 ## ✍️ Knowledge Sharing & Community
 
 I love documenting my learning journey, writing technical articles, and sharing practical insights about cloud computing, DevOps, automation, and emerging technologies. Through these platforms, I aim to simplify complex concepts, exchange ideas, and contribute to the developer community.
 
 ### 📝 Medium
+
 I share technical articles and insights on technologies, concepts, and practical lessons I explore throughout my engineering journey.
 
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@swayampatnaik17)
 
 ### 💻 DEV Community
+
 I use DEV Community to document technical learnings, explain engineering concepts, and share knowledge with fellow developers.
 
 [![DEV Community](https://img.shields.io/badge/DEV_Community-Explore_My_Writings-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/swayam_248)
 
 ### ☁️ AWS Builder Center
+
 I explore and share cloud-related knowledge through the AWS community, with a focus on AWS technologies and cloud engineering.
 
 [![AWS Builder Center](https://img.shields.io/badge/AWS_Builder_Center-View_My_Profile-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://builder.aws.com/profile/content?tab=published)
