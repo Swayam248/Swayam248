@@ -78,7 +78,6 @@ These notes help me strengthen my fundamentals, understand how technologies work
 
 🔗 **[Explore My Cloud & DevOps Notes on Google Drive](https://drive.google.com/drive/folders/1kToJhjQPFdUgj8x5Q_aBXbLVc8aeNCuF)**
 
-*Continuously learning, documenting, and applying technical knowledge through practical work.*
 
 ---
 
@@ -132,6 +131,5 @@ I explore and share cloud-related knowledge through the AWS community, with a fo
   </a>
 </p>
 
-*Learning continuously. Building practically. Sharing knowledge.*
 
 ---
